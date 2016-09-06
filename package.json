@@ -1,0 +1,40 @@
+{
+  "name": "apophenia",
+  "version": "0.0.1",
+  "description": "A simple parser and tokenizer to analyze text, when the regex-only is not enough.",
+  "main": "index.js",
+  "keywords": [
+    "parser",
+    "tokenizer",
+    "lexer"
+  ],
+  "homepage": "https://github.com/edloidas/apophenia#readme",
+  "bugs": {
+    "url": "https://github.com/edloidas/apophenia/issues"
+  },
+  "license": "MIT",
+  "author": "Mikita Taukachou <edloidas@gmail.com> (http://edloidas.com)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edloidas/apophenia.git"
+  },
+  "scripts": {
+    "test": "mocha test/**/*.js",
+    "cover": "istanbul cover ./node_modules/mocha/bin/_mocha",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "pretty-error": "^2.0.0"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.9",
+    "istanbul": "^1.1.0-alpha.1",
+    "mocha": "^3.0.2",
+    "mocha-lcov-reporter": "^1.2.0",
+    "should": "^11.1.0"
+  },
+  "engines": {
+    "node": ">= 6.5.0",
+    "npm": ">= 3.10.7"
+  }
+}
