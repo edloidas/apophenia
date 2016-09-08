@@ -1,3 +1,5 @@
+'use strict';
+
 const errorHandlerStyles = {
   'pretty-error > header > title > kind': {
   },

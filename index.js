@@ -1,1 +1,3 @@
-modules.exports = {};
+'use strict';
+
+module.exports = {};

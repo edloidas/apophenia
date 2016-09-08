@@ -1,3 +1,5 @@
+'use strict';
+
 const PrettyError = require( 'pretty-error' );
 const defaultStyles = require( './errorHandlerStyles' );
 
