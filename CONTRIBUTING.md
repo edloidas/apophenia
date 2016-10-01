@@ -1,4 +1,4 @@
-# Contributing to Dawn of Aegis #
+# Contributing to Apophenia #
 
 ♥ [Apophenia](https://github.com/edloidas/apophenia) and want to get involved?
 Thanks! There are plenty of ways you can help!
